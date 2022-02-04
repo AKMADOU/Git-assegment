@@ -1,0 +1,16 @@
+  124  git branch
+  125  git push origin master
+  126  git push origin master
+  127  cd AMMI-git
+  128  LS
+  129  git remote add adou
+  130  git remote -v
+  131  git remote adou git@github.com:AKMADOU/Git-assegment.git
+  132  git remote -v
+  133  history
+  134  cd ammi
+  135  ls
+  136  cd ..
+  137  ls
+  138  cd AMMI-git
+  139  ls
