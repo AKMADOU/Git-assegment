@@ -1,42 +1,19 @@
-Exo 0
+
 mkdir  AMMI-git
-
-Exo 1
 cd AMMI-git 
-
 mkdir adou 
-
-Exo 2
 mkdir AMMI-first
-
-Exo 3
 mv AMMI-first AMMI-git
 ls 
-
-Exo 4
 touch identify.txt
-
-Exo 5
 nano identify.txt
-
-Exo 6 
 git init , ls, ls-a 
-
-Exo 7
 git config --global user.name "AKMADOU"
 git config --global user.email "Kouame.m.adou@aims-senegal.org" 
-
-Exo 8  
 git add identify.txt
 git status
-
-Exo 9
-
 git commit -m "first commit"
-
 git push
-
-
 git branch
 git push origin master
 git push origin master
