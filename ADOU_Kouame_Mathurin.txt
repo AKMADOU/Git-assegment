@@ -1,0 +1,132 @@
+/opt/anaconda3/bin/jupyter_mac.command ; exit;
+python
+python --version
+conda info
+git -version
+git -version
+git version
+zoom version
+zoom --version
+clear
+git
+git
+touch ammi.text
+head ammi.text
+clear
+mkdir ammi
+pwd
+cd ammi
+ls
+~
+cd ..
+ls
+cd D
+cd Downloads
+ls
+Desktop
+cd Desktop
+~
+cd ..
+cd Desktop
+ls
+~
+cd ..
+cd ammi
+pwd
+mkdir tesla
+ls
+cat > fatima.txt
+makdir ammi
+mkdir ammi
+cd ammi
+pwd
+mkdir amis.text
+cat > amis.txt
+ls
+mv amis.text
+ls
+mv amis.text ammi
+ls
+cd ammi
+ls
+~
+dc ..
+cd ..
+cd ..
+cd ammi
+ls
+rm ammi
+rm ammi ammi
+mv ammi ammi
+clear
+ls
+rw ammi
+rw fatima.txt
+rm fatima.txt
+ls
+rm ammi
+clear
+ls
+touch list.txt
+history
+cd ..
+history
+head command.txt
+history command.txt
+clear
+history
+git config --global urse.name "AKMADOU"
+git config --global urse.email "kouame.m.adou@aims-senegal.org"
+git config --global user.name "AKMADOU"
+git config --global user.email "kouame.m.adou@aims-senegal.org"
+clear
+git config --global user.name "AKMADOU"
+git config --global user.email "kouame.m.adou@aims-senegal.org"
+git config --global user.name
+git config --global user.email
+git clone https://github.com/AKMADOU/AKMADOU
+ls
+cd 
+cd .ssh
+cd Documents
+mkdir github
+cd github
+git clone https://github.com/AKMADOU/AKMADOU
+git clone https://github.com/AKMADOU/AKMADOU
+mkdir AMMI-git
+cd AMMI-git
+cd ..
+mkdir AMMI-first
+cd AMMI-git
+mkdir adou
+ls
+cd ..
+mv AMMI-first AMMI-git
+cd AMMI-git
+touch identify.txt
+nano identify.txt
+ls
+git init
+ls
+ls -a
+git config --global user.name 'AKMADOU'
+git config --global user.email 'kouame.m.adou@aims-senegal.org'
+git status
+git add .
+git status
+git commit -m "first commit"
+git remote add https://github.com/AKMADOU/Git-assegment.git
+git branch
+git push origin master
+git remote -v https://github.com/AKMADOU/Git-assegment.git
+git remote add origin https://github.com/AKMADOU/Git-assegment.git
+git remote -v 
+git branch
+git push origin master
+git push origin master
+cd AMMI-git
+LS
+git remote add adou
+git remote -v
+git remote adou git@github.com:AKMADOU/Git-assegment.git
+git remote -v
